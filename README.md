@@ -1,4 +1,4 @@
-### Please use the gitpage link: https://rubleskelly.github.io/Data-Science-Portfolio/
+### Please use the gitpage link: https://rubleskelly.github.io/Data-Science-Portfolio/index.html
 
 
 
