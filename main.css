@@ -1,6 +1,8 @@
 /*Initial Setup*/ /*https://bits.theorem.co/css-pro-tips-responsive-font-sizes-and-when-to-use-which-units/*/
 body {
-      background-color: #fdfbe3;
+      background-color: #fff;
+      font: 12px;
+      
   }
 
 #grid{
@@ -24,7 +26,7 @@ body {
     border: solid #424242 .2em;
     border-radius: .2%;
     overflow: visible;
-    height:     6800px; 
+    
     max-width:  960px; 
     margin:     auto; 
     width:      100%; 
@@ -52,7 +54,7 @@ nav{
 
 nav>a{
     margin: 2rem !important;
-    font: 1rem Helvetica;
+    
     display: inline;
     color: #444444;
     text-decoration: none;
@@ -62,3 +64,24 @@ nav>a{
 h1{
     font: 2rem Helvetica !important;
     text-transform: uppercase;} 
+
+h2{
+    font: 1.5rem Helvetica !important;
+    }     
+
+#Conclusions{
+    font: 1.5rem Helvetica !important;
+}
+
+#Data-Analysis-of-geographic-distribution-of-London-house-prices{
+    font: 1.5rem Helvetica !important;
+}
+
+
+.prompt.input_prompt{
+ display: none;
+    }
+
+.prompt.output_prompt{
+    display: none;
+}
